@@ -554,7 +554,7 @@ animation-delay: 1s;
       .project-list{
         /* left: 0;
         right: 0; */
-        justify-self: center;
+        /* justify-self: center; */
       /* width: 290px; */
       grid-template-columns: 1fr;
      
@@ -574,8 +574,8 @@ animation-delay: 1s;
       }
       
      .contact-form form {
-      justify-self: start;
-      width: 280px;
+      justify-content: center;
+      width: 320px;
       }
     
       .contact-button {
